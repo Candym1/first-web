@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'KOHIBaeumOTF';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/KOHIBaeumOTF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+h1 {
+    font-family: 'KOHIBaeumOTF';
+    text-align: center;
+    font-size: 60px;
+}
+h1 span:nth-child(1) {
+    color: #ff1100;
+    text-shadow: 2px 2px black;
+    margin-right: 15px;
+  }
+h1 span:nth-child(2) {
+    color: black;
+}
+#st {
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}

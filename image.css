@@ -1,0 +1,15 @@
+body {
+    background-image: url("병원.jpg");
+    background-repeat:no-repeat;
+    background-position: center 18px;
+}
+body::before {
+    content: "";
+    opacity: 0.5;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    background-color: white;
+}
