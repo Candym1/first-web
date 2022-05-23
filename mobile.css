@@ -1,4 +1,4 @@
-@media (max-width:400px){
+@media (max-width:360px){
   body {
     background-image: none;
   }
@@ -12,12 +12,16 @@
     text-shadow: 2px 2px black;
     margin-right: 15px;
   }
+  .mobi {
+    width: 371px;
+  }
   #st {
     text-align: center;
     font-size: 18px;
     color: black;
   }
-  .mobi {
-    width: 371px;
-  }
+  #div1 {
+    margin-top:250px;
+    position: relative;
+}
 }
