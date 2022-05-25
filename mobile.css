@@ -1,4 +1,4 @@
-@media (max-width:360px){
+@media (min-width: 320px) and (max-width: 480px){
   #st {
     text-align: center;
     font-size: 18px;
