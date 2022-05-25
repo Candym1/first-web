@@ -1,0 +1,27 @@
+@media (min-width: 320px) and (max-width: 480px){
+  #st {
+    text-align: center;
+    font-size: 18px;
+    color: black;
+  }
+  #div1 {
+    margin-top:220px;
+    position: relative;
+  }
+  body {
+    background-image: none;
+  }
+  h1 {
+    font-family: 'KOHIBaeumOTF';
+    text-align: center;
+    font-size: 47px;
+  }
+  h1 span:nth-child(1) {
+    color: #ff1100;
+    text-shadow: 2px 2px black;
+    margin-right: 15px;
+  }
+  .mobi {
+    width: 347px;
+  }
+}
