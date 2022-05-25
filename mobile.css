@@ -5,7 +5,7 @@
     color: black;
   }
   #div1 {
-    margin-top:100px;
+    margin-top:220px;
     position: relative;
   }
   body {
@@ -22,6 +22,6 @@
     margin-right: 15px;
   }
   .mobi {
-    width: 371px;
+    width: 347px;
   }
 }
